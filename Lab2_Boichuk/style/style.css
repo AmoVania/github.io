@@ -1,0 +1,70 @@
+p.ex1, p.ex2, p.ex3, p.ex4, p.ex5 {
+    font-style: italic;
+    font-size: 30px;
+    font-family: Times New Roman, serif;
+}
+
+.ex3 {
+    background-color: #79e2f5;
+}
+
+.ex4 {
+    color: #00FF00;
+}
+
+.ex5 {
+    background-color: #FF0000;
+    color: #00FF00;
+}
+
+h1.ex6 {
+    font-family: Arial, Candara, Century-Gothic, sans-serif;
+    font-style: normal;
+}
+h2.ex6 {
+    font-family: Times New Roman, Georgia, serif;
+    font-style: italic;
+}
+p.ex6 {
+    font-family: Times New Roman, Georgia, serif;
+    font-style: oblique;
+}
+
+p.ex7 {
+    font-family: Arial, Candara, Century-Gothic, sans-serif;
+}
+
+p.ex8 {
+    font-family: Arial, Candara, Century-Gothic, sans-serif;
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+p.ex9 {
+    font-family: Arial, Candar, Century-Gothic, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+}
+
+h1.ex10 {
+    font-family: Arial, Candara, Century-Gothic, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+}
+h2.ex10 {
+    font-family: Times New Roman, Georgia, serif;
+    font-style: italic;
+    font-size: 100pt;
+}
+h3.ex10 {
+    font-family: Times New Roman, Georgia, serif;
+    font-style: italic;
+    font-size: 120%;
+}
+p.ex10 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: arial, sans-serif;
+}
